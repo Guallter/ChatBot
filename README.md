@@ -1,4 +1,4 @@
-# Gunter
+# ChatBot
  
  1. Rodar *npm install*
  2. Executar *npm run start:dev*
