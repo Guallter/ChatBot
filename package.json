@@ -1,0 +1,36 @@
+{
+  "name": "bot-zdg",
+  "version": "1.0.0",
+  "description": "ChatBot nomeado de Gunter",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp-api",
+    "node.js"
+  ],
+  "author": "Pedro",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-validator": "^6.9.2",
+    "http": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mime-types": "^2.1.32",
+    "mongoose": "^6.7.3",
+    "qrcode": "^1.4.4",
+    "socket.io": "2.3.0",
+    "typescript": "^4.9.3",
+    "whatsapp-web.js": "^1.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

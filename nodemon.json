@@ -1,0 +1,4 @@
+{
+	"ignore": ["whatsapp-session*.json", "whatsapp-sessions.json"],
+	"exec": "npx ts-node ./Autenticação/app.js"
+}

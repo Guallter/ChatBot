@@ -1,0 +1,49 @@
+.fields {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 7px;
+    font-size: 1.2rem;
+    color: black;
+    font-family: Poppins;
+}
+
+input, textarea {
+    width: 25%;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    
+}
+input {
+    height: 45px;
+}
+
+textarea {
+    height: 190px;
+    resize: none;
+    padding-top: 10px;
+    background-color: #3E445B;
+}
+
+.btn-post button{
+    font-family: Heebo;
+    font-weight: 800;
+    font-size: 1.3rem;
+    padding: 5px 50px;
+    color: #fff;
+    background-color: black;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+
+
+
+
